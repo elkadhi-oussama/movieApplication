@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.addButtn{
+    display: block;
+    margin: 0 auto;
+}
+.styleSelct{
+    margin-left: 5%;
+}
+.styleSelct2{
+    margin-left: 2.5%;
+}
+.serachNAv{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 20px;
+
+}
+a{
+    text-decoration: none;
+}

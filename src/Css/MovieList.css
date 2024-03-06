@@ -1,0 +1,14 @@
+.contentu{
+    background-color: #212529;
+    height: 400vh;
+}
+.flexCards{
+    width: 63%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 50px;
+}
+.flexCards >*{
+    margin: 20px;
+}
